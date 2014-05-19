@@ -4,3 +4,4 @@ Bill of Materials
 99744 |Krzysztof  |Dębiński |krzysztoftdebinski@gmail.com
 88820 |Michał     |Maryniak |maryniak.m@gmail.com  |
 93497 |Estera     |Grzęda   |estera-grzeda@wp.pl
+98649 |Krzysztof  |Ofierzyński   |kofierzynski@gmail.com
